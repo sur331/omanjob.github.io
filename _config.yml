@@ -1,4 +1,5 @@
 title: "عُمان نبض الغد"
-description: "منصة إخبارية عُمانية تهتم بنشر أحدث الأخبار المحلية والفرص الوظيفية."
-header_pages:
-  - jobs.md
+description: "منصة إخبارية عُمانية شاملة"
+theme: minima
+plugins:
+  - jekyll-feed
